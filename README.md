@@ -1,9 +1,13 @@
 # Urban-Rural-Classification
 
 Description and methodological overview available at https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwae119/7693598?rss=1
+-The variable "UR_Cat" represents a 3 level categorization of censys tracts (0=Rural, 1=Periurban, 2=Urban).  
+-The variable "UR_Scale" represents a continuous scale (0-1) representing rurality (0=more rural, 1=more urban)
+-GEOID can be used to link the values to census tract
+-The remaining variables represent the data used to derive these values (as described in the linked manuscript)
 
-2020 Census tracts are available for Washington State and should be available nationwide within a few days (as of 6/20/2024)
 
+**2020 Census tracts are available for Washington State and should be available nationwide within a few days (as of 6/20/2024)**
 2020 Census Tract Update Uses the Following Data:
 1.) 2020 American Community Survey
 2.) 2021 EPA Walkability Score (https://catalog.data.gov/dataset/walkability-index1)
