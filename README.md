@@ -1,6 +1,6 @@
 # Urban-Rural-Classification
 
-Description and methodological overview available at https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwae119/7693598?rss=1
+**Description and methodological overview available at https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwae119/7693598?rss=1**
 
 -The variable "UR_Cat" represents a 3 level categorization of censys tracts (0=Rural, 1=Periurban, 2=Urban).  
 
