@@ -1,6 +1,6 @@
 # Urban-Rural-Classification
 
-Description and methodological overview available at _____________
+Description and methodological overview available at https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwae119/7693598?rss=1
 
 2020 Census Tract Update Uses the Following Data:
 1.) 2020 American Community Survey
