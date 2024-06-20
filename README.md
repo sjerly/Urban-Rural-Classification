@@ -3,9 +3,7 @@
 Description and methodological overview available at https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwae119/7693598?rss=1
 -The variable "UR_Cat" represents a 3 level categorization of censys tracts (0=Rural, 1=Periurban, 2=Urban).  
 -The variable "UR_Scale" represents a continuous scale (0-1) representing rurality (0=more rural, 1=more urban)
-
 -GEOID can be used to link the values to census tract
-
 -The remaining variables represent the data used to derive these values (as described in the linked manuscript).  The variables with the suffix "_t" are transformed and scaled for factor analysis.
 
 
