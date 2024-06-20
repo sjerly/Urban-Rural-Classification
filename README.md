@@ -8,7 +8,8 @@ Description and methodological overview available at https://academic.oup.com/aj
 
 
 **2020 Census tracts are available for Washington State and should be available nationwide within a few days (as of 6/20/2024)**
-2020 Census Tract Update Uses the Following Data:
+
+This Update Uses the Following Data:
 1.) 2020 American Community Survey
 2.) 2021 EPA Walkability Score (https://catalog.data.gov/dataset/walkability-index1)
       -Converted from 2010 Census Block to 2020 Census tract via the weighted (by area) mean of walkability score in overlapping regions
