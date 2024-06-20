@@ -4,7 +4,7 @@ Description and methodological overview available at https://academic.oup.com/aj
 -The variable "UR_Cat" represents a 3 level categorization of censys tracts (0=Rural, 1=Periurban, 2=Urban).  
 -The variable "UR_Scale" represents a continuous scale (0-1) representing rurality (0=more rural, 1=more urban)
 -GEOID can be used to link the values to census tract
--The remaining variables represent the data used to derive these values (as described in the linked manuscript)
+-The remaining variables represent the data used to derive these values (as described in the linked manuscript).  The variables with the suffix "_t" are transformed and scaled for factor analysis.
 
 
 **2020 Census tracts are available for Washington State and should be available nationwide within a few days (as of 6/20/2024)**
