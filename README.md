@@ -6,14 +6,14 @@
 
 -The variable "UR_Scale" represents a continuous scale (0-1) representing rurality (0=more rural, 1=more urban)
 
--GEOID can be used to link the values to census tract
+-GEOID can be used to link the values to census tracts
 
- -The remaining variables represent the data used to derive these values (as described in the linked manuscript).  The variables with the suffix "_t" are transformed and scaled for factor analysis.
+-The remaining variables represent the data used to derive these values (as described in the linked manuscript).  The variables with the suffix "_t" are transformed and scaled for factor analysis.
 
 
-**2020 Census tracts are available for Washington State and should be available nationwide within a few days (as of 6/20/2024)**
 
- This Update Uses the Following Data:
+**2020 Census Tract Update**
+ 2020 Census Tracts Uses the Following Data:
  1.) 2020 American Community Survey
  
  2.) 2021 EPA Walkability Score (https://catalog.data.gov/dataset/walkability-index1)
